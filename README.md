@@ -146,10 +146,12 @@ GodSkill 强调六项核心原则：
 
 ```
 GodSkill/
-├── SKILL.md              # 核心 Skill 定义文件（完整 7 步框架）
-├── _skillhub_meta.json   # Skill 元数据
-├── README.md             # 本文件
-└── .gitignore            # Git 忽略规则
+├── README.md                          # 本文件
+├── .gitignore                         # Git 忽略规则
+└── first-principles-decision/         # 第一性原理引导决策 Skill
+    ├── SKILL.md                       # 核心 Skill 定义文件（完整 7 步框架）
+    └── _skillhub_meta.json            # Skill 元数据
+<!-- 更多 Skill 将在后续添加 -->
 ```
 
 ---
