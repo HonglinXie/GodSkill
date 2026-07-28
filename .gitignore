@@ -1,0 +1,6 @@
+# IDE
+.codebuddy/
+
+# OS
+.DS_Store
+Thumbs.db
